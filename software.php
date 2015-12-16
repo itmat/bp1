@@ -129,7 +129,8 @@
 
 <h2>Our Code to run and evaluate the presented algorithms</h2>
 <p>
-Scripts that run the benchmarked software can be found here <a href="https://bitbucket.org/baruz/aligner-benchmark/overview">bitbucket/baruz</a>. The compare the results to the truth can be found on <a href="https://github.com/khayer/aligner_benchmarking">github/khayer</a>.
+Scripts that run the benchmarked software can be found at <a href="https://bitbucket.org/baruz/aligner-benchmark/overview">bitbucket/baruz</a>.
+To compare the results of each algorithm to the truth please refer to this repository <a href="https://github.com/khayer/aligner_benchmark">github/khayer</a>.
 </p>
 
 </div> <!-- end #content -->
