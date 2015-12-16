@@ -88,12 +88,12 @@
 <p>
 SOMETHING ABOUT T1
 </p>
-<h4>Download: </h4><br>
+<h4>Download: <br>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/human_t1r1.tar.bz2">human_t1r1.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/human_t1r1.tar.bz2.md5sum">human_t1r1.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/human_t1r1.tar.bz2.md5sum">human_t1r1.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -105,10 +105,10 @@ SOMETHING ABOUT T1
 </span>
 </div>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/human_t1r2.tar.bz2">human_t1r2.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/human_t1r2.tar.bz2.md5sum">human_t1r2.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/human_t1r2.tar.bz2.md5sum">human_t1r2.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -120,10 +120,10 @@ SOMETHING ABOUT T1
 </span>
 </div>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/human_t1r3.tar.bz2">human_t1r3.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/human_t1r3.tar.bz2.md5sum">human_t1r3.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/human_t1r3.tar.bz2.md5sum">human_t1r3.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -135,10 +135,10 @@ SOMETHING ABOUT T1
 </span>
 </div>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/malaria_t1r1.tar.bz2">malaria_t1r1.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r1.tar.bz2.md5sum">malaria_t1r1.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r1.tar.bz2.md5sum">malaria_t1r1.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -150,10 +150,10 @@ SOMETHING ABOUT T1
 </span>
 </div>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/malaria_t1r2.tar.bz2">malaria_t1r2.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r2.tar.bz2.md5sum">malaria_t1r2.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r2.tar.bz2.md5sum">malaria_t1r2.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -165,10 +165,10 @@ SOMETHING ABOUT T1
 </span>
 </div>
 <div id="under-element">
-
+<center>
 <a href="http://bp1.s3.amazonaws.com/malaria_t1r3.tar.bz2">malaria_t1r3.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r3.tar.bz2.md5sum">malaria_t1r3.tar.bz2.md5sum</a>) <br>
-
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t1r3.tar.bz2.md5sum">malaria_t1r3.tar.bz2.md5sum</a>)
+</center>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -179,7 +179,7 @@ SOMETHING ABOUT T1
 </table>
 </span>
 </div>
-
+</h4>
 
 <h3>Dataset Test 2 (T2)</h3>
 
