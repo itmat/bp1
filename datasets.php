@@ -47,6 +47,7 @@
 <h2>Datasets</h2>
 
 <h3>Genomes and Annotation</h3>
+SOMETHING ABOUT GENOMES AND ANNOTATION
 <h4>Download: <br>
 <div id="under-element">
 <center>
@@ -278,6 +279,105 @@ SOMETHING ABOUT T2
 </span>
 </div>
 </h4>
+
+<h3>Dataset Test 3 (T3)</h3>
+
+<p>
+SOMETHING ABOUT T3
+</p>
+<h4>Download: <br>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/human_t3r1.tar.bz2">human_t3r1.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t3r1.tar.bz2.md5sum">human_t3r1.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t3.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/human_t3r2.tar.bz2">human_t3r2.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t3r2.tar.bz2.md5sum">human_t3r2.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t3.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/human_t3r3.tar.bz2">human_t3r3.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t3r3.tar.bz2.md5sum">human_t3r3.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t3.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t3r1.tar.bz2">malaria_t3r1.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t3r1.tar.bz2.md5sum">malaria_t3r1.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t3.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t3r2.tar.bz2">malaria_t3r2.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t3r2.tar.bz2.md5sum">malaria_t3r2.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t3.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t3r3.tar.bz2">malaria_t3r3.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t3r3.tar.bz2.md5sum">malaria_t3r3.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_T1.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+</h4>
+
 
 <!-- In particular: <br>
 <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1219408">IVT polyA selected</a>, <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1219398">IVT Ribo selected 1</a> and <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSM1219399">IVT Ribo selected 2</a>
