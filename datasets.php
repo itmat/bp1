@@ -50,8 +50,8 @@
 <h4>Download: <br>
 <div id="under-element">
 <center>
-<a href="http://bp1.s3.amazonaws.com/malaria.tar.bz2">http://bp1.s3.amazonaws.com/malaria.tar.bz2</a>
-  (<a href="http://bp1.s3.amazonaws.com/malaria.tar.bz2.md5sum">http://bp1.s3.amazonaws.com/malaria.tar.bz2.md5sum</a>)
+<a href="http://bp1.s3.amazonaws.com/human.tar.bz2">human.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human.tar.bz2.md5sum">human.tar.bz2.md5sum</a>)
 </center>
 <span id="hover-element">
 <table>
@@ -65,6 +65,24 @@
 </span>
 </div>
 <center>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria.tar.bz2">malaria.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria.tar.bz2.md5sum">malaria.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>malaria.tar.bz2 <td> 6.4</tr>
+<tr><td>genome_sequence_pfal.fa <td> 22.7</tr>
+<tr><td>simulator_config_featurequantifications_pfal <td> 1.5</tr>
+<tr><td>simulator_config_geneinfo_pfal_GTF <td> 1.4</tr>
+<tr><td>simulator_config_geneinfo_pfal_BED.bed <td> 0.4</tr>
+</table>
+</span>
+</div>
+<center>
+</h4>
 
 <h3>Dataset Test 1 (T1)</h3>
 
@@ -75,7 +93,7 @@ SOMETHING ABOUT T1
 <div id="under-element">
 <center>
 <a href="http://bp2.s3.amazonaws.com/hayer1_T1.tar.bz2">hayer1_T1.tar.bz2</a>
-  (<a href="http://bp2.s3.amazonaws.com/hayer1_T1.tar.bz2.md5sum">hayer1_T1.tar.bz2.md5sum</a>) 
+  (<a href="http://bp2.s3.amazonaws.com/hayer1_T1.tar.bz2.md5sum">hayer1_T1.tar.bz2.md5sum</a>)
 </center>
 <span id="hover-element">
 <table>
@@ -114,11 +132,11 @@ SOMETHING ABOUT T1
 <p>
 Two additional simulated data sets were generated to assess the effect of polymorphisms and sequencing artifacts.  Data set EP (ENSEMBL Perfect) was generated with the same parameters as T1, except the full set of 93,778 unmodified ENSEMBL transcript models was used.  Data set ER (ENSEMBL Realistic) was generated with the same parameters except for the following changes, chosen to mimic real data: basewise error=0,5%, substitution frequency=0.1%, indel frequency=0.05%, intron frequency=30%.  These are fairly low polymorphism rates that would be expected if comparing human sequencing data to the human reference genome.  In reality the polymorphism rates in other organisms will be much higher.  We chose these parameters in order to attain reasonable lower bounds on algorithm accuracy in practice, where human/human comparisons are currently among the least polymorphic of all vertebrates.  Intron frequency of 30% may seem high at first, but it is typical.  However, in spite of comprising nearly a third of the reads, since introns are so much larger than exons the majority of intron signal results in very low coverage.  Two-thirds of all transcripts are expressed above zero, with levels of expressed transcripts given by an exponential distribution.  Short genes will be underrepresented because of the fragment length distribution so we removed all genes under 200 bases.
 </p>
-<h4>Download: <br> 
+<h4>Download: <br>
 <center>
 <div id="under-element">
 <a href="http://bp2.s3.amazonaws.com/hayer1_EP.tar.bz2">hayer1_EP.tar.bz2</a>
-  (<a href="http://bp2.s3.amazonaws.com/hayer1_EP.tar.bz2.md5sum">hayer1_EP.tar.bz2.md5sum</a>),<br> 
+  (<a href="http://bp2.s3.amazonaws.com/hayer1_EP.tar.bz2.md5sum">hayer1_EP.tar.bz2.md5sum</a>),<br>
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
@@ -147,7 +165,7 @@ Two additional simulated data sets were generated to assess the effect of polymo
 </div>
 <div id="under-element">
    <a href="http://bp2.s3.amazonaws.com/hayer1_ER.tar.bz2">hayer1_ER.tar.bz2</a>
-  (<a href="http://bp2.s3.amazonaws.com/hayer1_ER.tar.bz2.md5sum">hayer1_ER.tar.bz2.md5sum</a>) 
+  (<a href="http://bp2.s3.amazonaws.com/hayer1_ER.tar.bz2.md5sum">hayer1_ER.tar.bz2.md5sum</a>)
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
