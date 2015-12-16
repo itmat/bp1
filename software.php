@@ -76,14 +76,19 @@
   <td>0.1.6beta</td>
 </tr>
 <tr>
-  <td>IsoLasso</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21951053">IsoLasso: a LASSO regression approach to RNA-Seq based transcriptome assembly. (Li 2011)</a></td>
-  <td>isolasso-2.6.1</td>
+  <td>HISAT2</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/25751142">HISAT: a fast spliced aligner with low memory requirements. (Kim 2015)</a></td>
+  <td>2.0.0beta</td>
 </tr>
 <tr>
-  <td>MITIE</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23980025">MITIE: Simultaneous RNA-Seq-based transcript identification and quantification in multiple samples. (Behr 2013)</a></td>
-  <td>10/27/2014</td>
+  <td>MapSplice</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/20802226">MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery (Wang 2010)</a></td>
+  <td>2.2.0</td>
+</tr>
+<tr>
+  <td>NovoAlign</td>
+  <td><a href="http://www.novocraft.com/products/novoalign/">Novocraft Technologies website</a></td>
+  <td>3.02.13</td>
 </tr>
 <tr>
   <td>StringTie</td>
