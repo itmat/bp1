@@ -189,8 +189,83 @@ SOMETHING ABOUT T2
 <h4>Download: <br>
 <div id="under-element">
 <center>
-<a href="http://bp2.s3.amazonaws.com/hayer1_T1.tar.bz2">hayer1_T1.tar.bz2</a>
-  (<a href="http://bp2.s3.amazonaws.com/hayer1_T1.tar.bz2.md5sum">hayer1_T1.tar.bz2.md5sum</a>)
+<a href="http://bp1.s3.amazonaws.com/human_t2r1.tar.bz2">human_t2r1.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t2r1.tar.bz2.md5sum">human_t2r1.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/human_t2r2.tar.bz2">human_t2r2.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t2r2.tar.bz2.md5sum">human_t2r2.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/human_t2r3.tar.bz2">human_t2r3.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/human_t2r3.tar.bz2.md5sum">human_t2r3.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t2r1.tar.bz2">malaria_t2r1.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t2r1.tar.bz2.md5sum">malaria_t2r1.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t2r2.tar.bz2">malaria_t2r2.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t2r2.tar.bz2.md5sum">malaria_t2r2.tar.bz2.md5sum</a>)
+</center>
+<span id="hover-element">
+<table>
+<tr><th>File name <th> File size in mb</tr>
+<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
+<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
+<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
+<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+</table>
+</span>
+</div>
+<div id="under-element">
+<center>
+<a href="http://bp1.s3.amazonaws.com/malaria_t2r3.tar.bz2">malaria_t2r3.tar.bz2</a>
+  (<a href="http://bp1.s3.amazonaws.com/malaria_t2r3.tar.bz2.md5sum">malaria_t2r3.tar.bz2.md5sum</a>)
 </center>
 <span id="hover-element">
 <table>
@@ -199,28 +274,9 @@ SOMETHING ABOUT T2
 <tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
 <tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
 <tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
-<tr><td>simulated_reads_test1.forward.fa<td>  5,520.71</tr>
-<tr><td>simulated_reads_test1.reverse.fa<td>  5,198.00</tr>
-<tr><td>simulated_reads_junctions-crossed_test1.txt<td> 1,234.61</tr>
-<tr><td>fraglenhisto_test1.txt<td>  0.00</tr>
-<tr><td>simulated_reads2genes_test1.txt<td> 1,188.07</tr>
-<tr><td>simulated_reads_test1.log<td> 0.00</tr>
-<tr><td>true_alignment.bam <td> 1,998.46</tr>
-<tr><td>true_alignment.bam.bai <td> 2.67</tr>
-<tr><td>tophat_without_gene_models.bam.bai<td>  3.49</tr>
-<tr><td>tophat_with_gene_models.bam<td> 1,941.81</tr>
-<tr><td>tophat_without_gene_models.bam <td> 1,893.04</tr>
-<tr><td>tophat_with_gene_models.bam.bai<td> 2.88</tr>
-<tr><td>star_without_gene_models.bam <td> 2,031.73</tr>
-<tr><td>star_without_gene_models.bam.bai <td> 3.05</tr>
-<tr><td>star_with_gene_models.bam <td>2,030.98</tr>
-<tr><td>star_with_gene_models.bam.bai <td>3.05</tr>
 </table>
 </span>
 </div>
-<center>
-<a href="http://bp2.s3.amazonaws.com/simulator_config_geneinfo_test1_PLUS_MINUS.gtf">gene_models.gtf</a>
-</center>
 </h4>
 
 <!-- In particular: <br>
