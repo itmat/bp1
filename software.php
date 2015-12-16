@@ -127,9 +127,9 @@
 </tr>
 </table>
 
-<h2>Our Code to evaluate the presented algorithms</h2>
+<h2>Our Code to run and evaluate the presented algorithms</h2>
 <p>
-The benchmarking scripts can be found on <a href="https://github.com/khayer/benchmarking_scripts">github</a>.
+Scripts that run the benchmarked software can be found here <a href="https://bitbucket.org/baruz/aligner-benchmark/overview">bitbucket/baruz</a>. The compare the results to the truth can be found on <a href="https://github.com/khayer/aligner_benchmarking">github/khayer</a>.
 </p>
 
 </div> <!-- end #content -->
