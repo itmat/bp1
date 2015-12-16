@@ -91,9 +91,29 @@
   <td>3.02.13</td>
 </tr>
 <tr>
-  <td>StringTie</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/25690850">StringTie enables improved reconstruction of a transcriptome from RNA-seq reads. (Pertea 2015)</a></td>
-  <td>v1.0.0</td>
+  <td>OLego</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23571760">OLego: fast and sensitive mapping of spliced mRNA-Seq reads using small seeds (Wu 2013)</a></td>
+  <td>1.1.6</td>
+</tr>
+<tr>
+  <td>RUM</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/21775302">Comparative analysis of RNA-Seq alignment algorithms and the RNA-Seq unified mapper (RUM) (Grant 2011)</a></td>
+  <td>2.0.5_06</td>
+</tr>
+<tr>
+  <td>SOAPSplice</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22303342">SOAPsplice: genome-wide ab initio detection of splice junctions from RNA-Seq data (Huang 2011)</a></td>
+  <td>1.10</td>
+</tr>
+<tr>
+  <td>STAR</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23104886">STAR: ultrafast universal RNA-seq aligner (Dobin 2013)</a></td>
+  <td>2.5.0a</td>
+</tr>
+<tr>
+  <td>TopHat2</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23618408">TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions (Kim 2013)</a></td>
+  <td>2.1.0</td>
 </tr>
 </table>
 
