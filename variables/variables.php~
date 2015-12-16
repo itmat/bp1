@@ -1,0 +1,5 @@
+<?php
+      $heading='Benchmark Analysis of Transcriptome Reconstruction Algorithms';
+      $footer='Copyright &copy; 2014 Katharina E. Hayer';
+
+?>
