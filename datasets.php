@@ -88,7 +88,7 @@
 <p>
 SOMETHING ABOUT T1
 </p>
-<h4>Download: <h4><br>
+<h4>Download: </h4><br>
 <div id="under-element">
 
 <a href="http://bp1.s3.amazonaws.com/human_t1r1.tar.bz2">human_t1r1.tar.bz2</a>
@@ -179,7 +179,7 @@ SOMETHING ABOUT T1
 </table>
 </span>
 </div>
-</h5>
+
 
 <h3>Dataset Test 2 (T2)</h3>
 
