@@ -145,10 +145,10 @@ SOMETHING ABOUT T1
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_T1.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>malaria_t1r1.tar.bz2 <td> 836</tr>
+<tr><td>simulated_reads_PFALt1r1.cig <td> 3,007.0 </tr>
+<tr><td>fraglenhisto_PFALt1r1.txt <td> 0</tr>
+<tr><td>simulated_reads_PFALt1r1.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -160,10 +160,10 @@ SOMETHING ABOUT T1
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_T1.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>malaria_t1r2.tar.bz2 <td> 835</tr>
+<tr><td>simulated_reads_PFALt1r2.cig <td> 3,006.7 </tr>
+<tr><td>fraglenhisto_PFALt1r2.txt <td> 0</tr>
+<tr><td>simulated_reads_PFALt1r2.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -175,10 +175,10 @@ SOMETHING ABOUT T1
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_T1.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>malaria_t1r3.tar.bz2 <td> 836</tr>
+<tr><td>simulated_reads_PFALt1r3.cig <td> 3,007.1 </tr>
+<tr><td>fraglenhisto_PFALt1r3.txt <td> 0</tr>
+<tr><td>simulated_reads_PFALt1r3.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -198,10 +198,10 @@ SOMETHING ABOUT T2
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>human_t2r1.tar.bz2 <td> 933</tr>
+<tr><td>simulated_reads_HG19t2r1.cig <td> 3,209.5</tr>
+<tr><td>fraglenhisto_HG19t2r1.txt <td> 0</tr>
+<tr><td>simulated_reads_HG19t2r1.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -213,10 +213,10 @@ SOMETHING ABOUT T2
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>human_t2r2.tar.bz2 <td> 933</tr>
+<tr><td>simulated_reads_HG19t2r2.cig <td> 3,209.6</tr>
+<tr><td>fraglenhisto_HG19t2r2.txt <td> 0</tr>
+<tr><td>simulated_reads_HG19t2r2.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -228,10 +228,10 @@ SOMETHING ABOUT T2
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>human_t2r3.tar.bz2 <td> 933</tr>
+<tr><td>simulated_reads_HG19t2r3.cig <td> 3,209.4</tr>
+<tr><td>fraglenhisto_HG19t2r3.txt <td> 0</tr>
+<tr><td>simulated_reads_HG19t2r3.log <td> 0</tr>
 </table>
 </span>
 </div>
@@ -243,10 +243,10 @@ SOMETHING ABOUT T2
 <span id="hover-element">
 <table>
 <tr><th>File name <th> File size in mb</tr>
-<tr><td>hayer1_t2.tar.bz2 <td> 18,106.76</tr>
-<tr><td>simulated_reads_test1.cig <td>16,518.19</tr>
-<tr><td>simulator_config_geneinfo_test1 <td>9.42</tr>
-<tr><td>simulator_config_featurequantifications_test1 <td>35.74</tr>
+<tr><td>malaria_t1r3.tar.bz2 <td> 836</tr>
+<tr><td>simulated_reads_PFALt1r3.cig <td> 3,007.1 </tr>
+<tr><td>fraglenhisto_PFALt1r3.txt <td> 0</tr>
+<tr><td>simulated_reads_PFALt1r3.log <td> 0</tr>
 </table>
 </span>
 </div>
