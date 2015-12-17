@@ -138,7 +138,7 @@
 <tr>
   <td>SAMtools</td>
   <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19505943">The Sequence Alignment/Map format and SAMtools (Li 2009)</a></td>
-  <td>0.1.19-44428cd</td>
+  <td>0.1.19</td>
 </tr>
 <tr>
   <td>USeq</td>
