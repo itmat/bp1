@@ -44,7 +44,7 @@
 <div id="content">
 
 <h2>Results</h2>
-
+<!--
 Download pdf with all figures <a href="http://bp2.s3.amazonaws.com/hayer_all_figures.pdf">HERE</a>
 
 <h2>Overview</h2>
@@ -1696,7 +1696,7 @@ Download pdf with all figures <a href="http://bp2.s3.amazonaws.com/hayer_all_fig
 <td>&#10004</td>
 </tr>
 </tbody></table>
-
+-->
 
 </div> <!-- end #content -->
 
