@@ -126,29 +126,24 @@
   <th>Version</th>
 </tr>
 <tr>
-  <td>Bowtie 2</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22388286">Fast gapped-read alignment with Bowtie 2. (Langmead 2012)</a></td>
-  <td>bowtie2-2.2.3</td>
+  <td>Bowtie</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19261174">Ultrafast and memory-efficient alignment of short DNA sequences to the human genome (Langmead 2009)</a></td>
+  <td>1.1.2</td>
 </tr>
 <tr>
-  <td>GMAP</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/15728110">GMAP: a genomic mapping and alignment program for mRNA and EST sequences. (Wu 2005)</a></td>
-  <td>gmap-gsnap-2014-10-22</td>
+  <td>Bowtie 2</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/22388286">Fast gapped-read alignment with Bowtie 2 (Langmead 2012)</a></td>
+  <td>2.2.5</td>
 </tr>
 <tr>
   <td>SAMtools</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19505943">The Sequence Alignment/Map format and SAMtools. (Li 2009)</a></td>
-  <td>samtools-0.1.19</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19505943">The Sequence Alignment/Map format and SAMtools (Li 2009)</a></td>
+  <td>0.1.19-44428cd</td>
 </tr>
 <tr>
-  <td>STAR</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23104886">STAR: ultrafast universal RNA-seq aligner. (Dobin 2013)</a></td>
-  <td>STAR_2.4.0d</td>
-</tr>
-<tr>
-  <td>TopHat2</td>
-  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/23618408">TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions. (Kim 2013)</a></td>
-  <td>TopHat 2.0.13</td>
+  <td>USeq</td>
+  <td><a href="http://www.ncbi.nlm.nih.gov/pubmed/19061503">Empirical methods for controlling false positives and estimating confidence in ChIP-Seq peaks (Nix 2008)</a></td>
+  <td>8.9.5</td>
 </tr>
 </table>
 
